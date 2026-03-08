@@ -1,7 +1,14 @@
-## “Meta” helper (internal-only, non-user-facing)
+# IA/AI development (assistive, internal-only)
 
-- Only uses system/infrastructure signals.
-- Must not ingest surveillance data.
-- Must not infer intent/criminality.
-- Outputs limited to software quality actions.
-- Data minimization/consent for telemetry.
+- developer assistance (summaries, documentation, tests, review)
+- reliability/safety tooling (crash triage, performance regressions, log anomaly detection on non-personal telemetry)
+- explainability/uncertainty
+
+## Hard Constraints
+- no screening/threat scoring
+- no identity/intent/deception/suspiciousness inference
+- no law-enforcement integrations
+- no use on public/semi-public surveillance feeds
+- consent-first
+- local-first
+- data minimization
