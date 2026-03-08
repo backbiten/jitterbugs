@@ -1,4 +1,6 @@
-## Privacy & Non-goals
-- See docs/THREAT_MODEL.md for explicitly disallowed deployments (e.g., screening people in businesses, law-enforcement integrations).
+# Jitterbugs
 
-<existing content of README.md>
+## Privacy & Non-goals
+- See docs/NOTES.md for IA/AI development constraints and non-goals.
+
+...existing content...
