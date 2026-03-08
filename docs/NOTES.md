@@ -1,0 +1,1 @@
+<Content from docs/NOTES.md on copilot/create-initial-project-scaffold branch>
