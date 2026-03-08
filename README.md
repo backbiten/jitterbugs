@@ -1,3 +1,14 @@
-### Limitations & Interpretation
+## What this is (and isn’t)
 
-The overlay features are not reliable indicators of intent, deception, or wrongdoing. It is crucial to avoid making accusations or discussing sensitive political content based on these features.
+... (existing content here) ...
+
+## Limitations & Interpretation
+
+- Consent-only
+- No identification
+- No biometrics
+- No GPS tracking
+- No covert capture
+- No intimidation
+
+... (rest of the README content here) ...
