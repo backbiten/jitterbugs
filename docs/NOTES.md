@@ -12,3 +12,13 @@
 - consent-first
 - local-first
 - data minimization
+
+## Notifications policy (safe-only)
+
+Push notifications must not be triggered by detection/classification of people, emotions, intent, or suspiciousness.
+
+Allowed trigger categories:
+- System health (e.g., service errors, resource exhaustion)
+- Security (e.g., unauthorized access attempts, certificate expiry)
+- Reliability (e.g., crash reports, performance degradation)
+- Privacy/consent (e.g., data retention expiry, consent revocation events)
