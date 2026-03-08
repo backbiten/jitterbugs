@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+jitterbugs/__init__.py
+jitterbugs/analyzer.py
+jitterbugs/detector.py
+jitterbugs.egg-info/PKG-INFO
+jitterbugs.egg-info/SOURCES.txt
+jitterbugs.egg-info/dependency_links.txt
+jitterbugs.egg-info/requires.txt
+jitterbugs.egg-info/top_level.txt
+tests/test_analyzer.py
+tests/test_detector.py
