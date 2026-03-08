@@ -58,3 +58,10 @@ pip install -r requirements.txt
 ```bash
 python scripts/run_sniffer.py
 ```
+
+## Ethics & Consent
+
+- **Opt-in only.** Never run this tool against a person without their explicit, informed consent.
+- **Local processing.** All computation happens on your machine; no audio or video is transmitted or stored by default.
+- **No criminality claims.** The features extracted here (pitch, jitter, pose) are visualisation aids only. They do **not** and cannot detect deception, intent, mental state, or any personal attribute.
+- **Responsible use.** This project must not be used for surveillance, covert recording, or any purpose that violates applicable laws or the privacy of individuals.
