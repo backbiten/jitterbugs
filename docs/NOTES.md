@@ -1,14 +1,15 @@
-# IA/AI development (assistive, internal-only)
+# NOTES
 
-- developer assistance (summaries, documentation, tests, review)
-- reliability/safety tooling (crash triage, performance regressions, log anomaly detection on non-personal telemetry)
-- explainability/uncertainty
+## Notifications policy (safe-only)
 
-## Hard Constraints
-- no screening/threat scoring
-- no identity/intent/deception/suspiciousness inference
-- no law-enforcement integrations
-- no use on public/semi-public surveillance feeds
-- consent-first
-- local-first
-- data minimization
+Push notifications must not be triggered by detection/classification of people, emotions, intent, or suspiciousness.
+
+### Allowed triggers:
+- System health
+- Security
+- Reliability
+- Privacy/consent
+
+## Other Sections
+
+...
