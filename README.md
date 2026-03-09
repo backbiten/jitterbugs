@@ -1,17 +1,24 @@
-## What this is (and isn’t)
+# jitterbugs
 
-... (existing content here) ...
+A local-first camera utility for previewing and recording video to local storage.
 
-## Limitations & Interpretation
+## What this is
 
-- Consent-only
-- No identification
-- No biometrics
-- No GPS tracking
-- No covert capture
-- No intimidation
+jitterbugs is a simple, privacy-respecting camera/recorder application. It is designed for personal use where the user controls what is captured, stored, and deleted.
 
-... (rest of the README content here) ...
+**Goals:**
+- Camera preview and recording to local storage
+- User-controlled start/stop
+- Local file management (retain/delete/export)
+- Clear, prominent UI indicators when recording is active
+
+**Non-goals:**
+- No facial recognition or identity matching
+- No emotion detection or behavioral inference
+- No cloud uploads by default
+- No background or hidden recording
+
+See [docs/SAFETY-SCOPE-POLICY.md](docs/SAFETY-SCOPE-POLICY.md) for the full scope and data-handling policy.
 
 ## Building & Packaging
 
