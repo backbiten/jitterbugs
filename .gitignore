@@ -28,3 +28,7 @@ Thumbs.db
 *.mp4
 *.mov
 *.avi
+
+# Go build artifacts
+/qaqc
+/cmd/qaqc/qaqc
