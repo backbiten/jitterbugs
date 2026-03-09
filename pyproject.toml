@@ -18,8 +18,14 @@ dependencies = [
   "pyaudio>=0.2.14",
 ] 
 
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
 [tool.setuptools]
 package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
